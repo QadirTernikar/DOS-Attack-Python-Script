@@ -1,3 +1,4 @@
+# DONOT USE THE PYTHON SCRIPT ON WEB SERVERS OR WEBSITES YOU DO NOT OWN
 # DDoS Attack Simulation for Business Use
 # Project Overview
 This project focuses on simulating Distributed Denial of Service (DDoS) attacks to analyze their impact on business-critical web applications. The primary objective is to understand the techniques employed in DDoS attacks, their effects on system performance, and the potential vulnerabilities that can be exploited. The project is designed for research and educational purposes, particularly for studying the offensive side of cybersecurity.
