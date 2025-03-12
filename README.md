@@ -12,7 +12,7 @@ Project Scope
 The project is not intended for malicious use. Instead, it serves as a resource for understanding the mechanics of DDoS attacks, which can ultimately guide the development of better defensive mechanisms.
 
 ## Technologies Used
-Programming Language: Python (or relevant language used in the project)
+Programming Language: Python
 Networking Libraries: Scapy, Socket, or other tools for generating traffic
 Visualization Tools: Matplotlib, and Seaborn for traffic analysis
 Testing Environment: Local/Virtual test server
